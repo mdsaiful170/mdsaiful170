@@ -86,11 +86,11 @@ Skills:HTML /CSS /JavaScript /React /React Native /Next.js /typeScript
 <br/>
 
 ## Best Repo -
-[![full-education-site](https://github-readme-stats.vercel.app/api/pin/?username=mdsaiful170&repo=full-education-site&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mdsaiful170/full-education-site)
-[![my-book-stor](https://github-readme-stats.vercel.app/api/pin/?username=mdsaiful170&repo=my-book-stor&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mdsaiful170/my-book-stor)
-[![ecommerce_website_ecom](https://github-readme-stats.vercel.app/api/pin/?username=mdsaiful170&repo=ecommerce_website_ecom&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mdsaiful170/ecommerce_website_ecom)
-[![miltipage-food-site](https://github-readme-stats.vercel.app/api/pin/?username=mdsaiful170&repo=miltipage-food-site&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mdsaiful170/miltipage-food-site)
-[![travel-web](https://github-readme-stats.vercel.app/api/pin/?username=mdsaiful170&repo=travel-web&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mdsaiful170/travel-web)
+[![full-education-site](https://github-readme-stats.vercel.app/api/pin/?username=mdsaiful170&repo=full-education-site&border_color=7F3FBF&bg_color=141321&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mdsaiful170/full-education-site)
+[![my-book-stor](https://github-readme-stats.vercel.app/api/pin/?username=mdsaiful170&repo=my-book-stor&border_color=7F3FBF&bg_color=141321&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mdsaiful170/my-book-stor)
+[![ecommerce_website_ecom](https://github-readme-stats.vercel.app/api/pin/?username=mdsaiful170&repo=ecommerce_website_ecom&border_color=7F3FBF&bg_color=141321&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mdsaiful170/ecommerce_website_ecom)
+[![miltipage-food-site](https://github-readme-stats.vercel.app/api/pin/?username=mdsaiful170&repo=miltipage-food-site&border_color=7F3FBF&bg_color=141321&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mdsaiful170/miltipage-food-site)
+[![travel-web](https://github-readme-stats.vercel.app/api/pin/?username=mdsaiful170&repo=travel-web&border_color=7F3FBF&bg_color=141321&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mdsaiful170/travel-web)
 
 <p align="left">
   <a href="https://github.com/mdsaiful170?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
@@ -113,12 +113,12 @@ Skills:HTML /CSS /JavaScript /React /React Native /Next.js /typeScript
 </p>
 
 <a> 
-    <a href="https://github.com/mdsaiful170"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mdsaiful170&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/mdsaiful170"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mdsaiful170&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/mdsaiful170"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mdsaiful170&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=141321&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/mdsaiful170"><img alt="Harun's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mdsaiful170&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=141321&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdsaiful170&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdsaiful170&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=141321&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 <br/>
