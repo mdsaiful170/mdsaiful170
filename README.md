@@ -1,4 +1,4 @@
-![I am mdsaiful170](https://github.com/mdsaiful170/mdsaiful170/blob/main/hom_img/home_bg_1.png)
+![I am mdsaiful170](https://github.com/mdsaiful170/mdsaiful170/blob/main/hom_img/DRojUzzXRpqAiVCLQKPv7Q.png)
 
 <h1 align="center">Hi 👋, I'm Md Saiful Islam(MSI)</h1>
 <h3 align="center">Programmer | Web Designer | Creative Idea | Speed Learner</h3>
@@ -111,12 +111,6 @@ Skills:HTML /CSS /JavaScript /React /React Native /Next.js /typeScript
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsaiful170&theme=radical" alt="Harun's GitHub Contribution"/>
   </a>
 </p>
-<br/>
- <p  align="center">
- 
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=mdsaiful170&theme=radical&hide_border=false )
- </p>
-<br/>
 
 <a> 
     <a href="https://github.com/mdsaiful170"><img alt="Harun's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mdsaiful170&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
