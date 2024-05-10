@@ -7,7 +7,7 @@
 <div align="center">
 
 <!--![Profile views](https://komarev.com/ghpvc/?username=mdsaiful170&color=red) -->
-[![](https://visitcount.itsvg.in/api?id=mdsaiful170&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mdsaiful170&icon=0&color=SlateBlue)](https://visitcount.itsvg.in)
 
 
 Skills:HTML /CSS /JavaScript /React /React Native /Next.js /typeScript 
