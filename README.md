@@ -29,7 +29,7 @@ Skills:HTML /CSS /JavaScript /React /React Native /Next.js /typeScript
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="center">
+<p align="left">
 <a href="https://www.facebook.com/profile.php?id=100042228393950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://twitter.com/SaifulIslam170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-saiful-islam-2676b2245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdsaiful170" height="30" width="40" /></a>
@@ -39,6 +39,8 @@ Skills:HTML /CSS /JavaScript /React /React Native /Next.js /typeScript
 <a href="https://dribbble.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mdsaiful170" height="30" width="40" /></a>
 <a href="https://www.behance.net/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mdsaiful170" height="30" width="40" /></a>
 </p>
+<br/>
+
 
 <!--- ## Use To Code
 
@@ -76,6 +78,8 @@ Skills:HTML /CSS /JavaScript /React /React Native /Next.js /typeScript
 
 
 <br/>
+<br/>
+<br/>
 
 ## Best Repo -
 [![full-education-site](https://github-readme-stats.vercel.app/api/pin/?username=mdsaiful170&repo=full-education-site&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/mdsaiful170/full-education-site)
@@ -94,9 +98,9 @@ Skills:HTML /CSS /JavaScript /React /React Native /Next.js /typeScript
 
 ## Github Stats -
 
-<div align="center">
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=mdsaiful170&theme=radical&hide_border=false)<br/>
-</div> 
+
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=mdsaiful170&theme=radical&hide_border=false )<br/>
+
 
 <p align="center">
   <a href="https://github.com/mdsaiful170">
