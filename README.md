@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=mdsaiful170color=yellow)
+![Profile views](https://komarev.com/ghpvc/?username=mdsaiful170&color=slateblue)
 
 
 Skills:HTML /CSS /JavaScript /React /React Native /Next.js /typeScript 
