@@ -1,30 +1,29 @@
 ![I am mdsaiful170](https://github.com/mdsaiful170/mdsaiful170/blob/main/hom_img/home_bg_1.png)
 
 <h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h3 align="center">Programmer | Web Designer | Creative Idea | Speed Learner</h3>
+<h4 align="center">Co-founder & Connect with Saiful</h4>
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=mdsaiful170&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills:HTML /CSS /JavaScript /React /React Native /Next.js /typeScript 
 
 </div>
 
-- 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently working on :[Web Developer in Merket Place]
 
-- 🌱 I’m currently learning Golang, Java, C++
+- 🌱 I’m currently learning Next.js, Angular.js, typeScript
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdsaiful170](https://github.com/mdsaiful170)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap, React, Next.js, typeScript**
 
-- 📫 How to reach me **programmerharun@gmail.com**
+- 📫 How to reach me **saifulsylhet00@gmail.com**
 
-- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)
+<!--- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)-->
 
 <h3 align="left">Connect with me:</h3>
 
