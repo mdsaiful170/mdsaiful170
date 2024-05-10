@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=harun181&color=purple)
+![Profile views](https://komarev.com/ghpvc/?username=harun181&color=yellow)
 
 
 Skills:HTML /CSS /JavaScript /React /React Native /Next.js /typeScript 
