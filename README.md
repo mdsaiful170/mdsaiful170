@@ -24,17 +24,17 @@ Skills:HTML /CSS /JavaScript /React /React Native /Next.js /typeScript
 
 - 📫 How to reach me **saifulsylhet00@gmail.com** 
 
-<!--- 📄 All About Me:[https://lnk.bio/tutul181](https://lnk.bio/tutul181)-->
+<!--- 📄 All About Me:[https://lnk.bio/mdsaiful170](https://lnk.bio/mdsaiful170)-->
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100042228393950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://twitter.com/SaifulIslam170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100042228393950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdsaiful170" height="30" width="40" /></a>
+<a href="https://twitter.com/SaifulIslam170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdsaiful170" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-saiful-islam-2676b2245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdsaiful170" height="30" width="40" /></a>
 <a href="https://codepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mdsaiful170" height="30" width="40" /></a>
 <a href="https://www.youtube.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Learn With Tutul" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdsaiful170" height="30" width="40" /></a>
 <a href="https://dribbble.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mdsaiful170" height="30" width="40" /></a>
 <a href="https://www.behance.net/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="mdsaiful170" height="30" width="40" /></a>
 </p>
