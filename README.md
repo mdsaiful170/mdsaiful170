@@ -1,13 +1,4 @@
-$ cat /etc/issue
- ____    _    ___ _____ _   _ _     
-/ ___|  / \  |_ _|  ___| | | | |    
-\___ \ / _ \  | || |_  | | | | |    
- ___) / ___ \ | ||  _| | |_| | |___ 
-|____/_/   \_\___|_|    \___/|_____|
-
-$ uname -a
-Saiful Islam (I am error..)
-
+[I am mdsaiful170](https://github.com/mdsaiful170/mdsaiful170/blob/main/hom_img/DRojUzzXRpqAiVCLQKPv7Q.png)
 
 <h1 align="center">Hi 👋, I'm Md Saiful Islam(MSI)</h1>
 <h3 align="center">Programmer | Web Designer | Creative Idea | Speed Learner</h3>
