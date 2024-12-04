@@ -8,10 +8,7 @@ $ cat /etc/issue
 $ uname -a
 Saiful Islam (I am error..)
 
-$ cat /etc/profile
-DOMAIN=saifulapm.github.io
-GITHUB=saifulapm
-TWITTER=saifulapm
+
 <h1 align="center">Hi 👋, I'm Md Saiful Islam(MSI)</h1>
 <h3 align="center">Programmer | Web Designer | Creative Idea | Speed Learner</h3>
 <h4 align="center">Co-founder & Operating Officer at Connect with Saiful</h4>
